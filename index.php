@@ -4,5 +4,8 @@
     echo "rien";
     echo "ah bon ?";
     echo "C'est fini oui ?!!!";
+    echo "un";
+    echo "deux";
+    echo "trois";
 
 ?>
